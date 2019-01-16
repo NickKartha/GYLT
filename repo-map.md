@@ -18,21 +18,29 @@
  + [halloworld](https://github.com/NickKartha/halloworld) [ *hello-world repository* ]
  + [Attendize](https://github.com/NickKartha/Attendize) [ *web-app for ticket sales* ]
  + [Awesome Cryptography](https://github.com/NickKartha/reference-collection-for-cryptography-and-network-security) [ *collection of references* ]
- + []() [ * * ]
- + []() [ * * ] I
- + []() [ * * ] will
- + []() [ * * ] finish
- + []() [ * * ] this
- + []() [ * * ] later
- + []() [ * * ] ok.
- + []() [ * * ]
- + []() [ * * ] Seriously
- + []() [ * * ] I'll
- + []() [ * * ] come
- + []() [ * * ] back
- + []() [ * * ] to this.
- + []() [ * * ]
- + []() [ * * ]
- 
+ + [Diaspora Federation](https://github.com/NickKartha/diaspora_federation) [ *open-source social network protocol* ]
+ + [100DaysOfCode](https://github.com/NickKartha/100DaysOfCode) [ *mandatory coding challenge #1* ]
+ + [DS-in-3-months](https://github.com/NickKartha/Learn_Data_Science_in_3_Months) [ *SoAI 3 month training on Data Science* ]
+ + [Trial](https://github.com/NickKartha/trial) [ *click-based actionscript game* ]
+ + [Spyfall](https://github.com/NickKartha/spyfall) [ *mystery investigation game* ]
+ + [FIX Engine](https://github.com/NickKartha/FIX-Engine) [ *Trading automation based on FIX protocol* ]
+ + [LexLuthor](https://github.com/NickKartha/LexLuthor) [ *first try at lex* ]
+ + [Noah](https://github.com/NickKartha/noah) [ *kerala flood crisis mitigation project* ]
+ + [Move37](https://github.com/NickKartha/Move37) [ *SoAI data science course* ]
+ + [My Adventures in Bash](https://github.com/NickKartha/My-Adventures-in-Bash) [ * mastering bash commands* ]
+ + [mit-deep-learning-book.pdf](https://github.com/NickKartha/mit-deep-learning-book-pdf) [ * remains unread * ] 
+ + [BTC Trade Automation](https://github.com/NickKartha/Bitcoin_Trading_Bot) [ *seminar topic* ]
+ + [Haskell 2020](https://github.com/NickKartha/haskell-98-tutorial-sources) [ *Resource on Haskell* ]
+ + [Emojinator](https://github.com/NickKartha/Emojinator) [ *emoji recognition using OpenCV* ]
+ + [RescueKerala](https://github.com/NickKartha/rescuekerala) [ *state post-crisis rehabilitation* ]
+ + [My Adventures in Java](https://github.com/NickKartha/My-Adventures-in-Java) [ *a learning journey* ]
+ + [Space Nav. View](https://github.com/NickKartha/Space-Navigation-View) [ *Android app template* ]
+ + [PyDev17](https://github.com/NickKartha/PyDev17) [ *official repo for PyDev 2017* ]
+ + [Ethical Hacking Workshop](https://github.com/NickKartha/AdiShankara) [ *One-day CEH training* ]
+ + [Test](https://github.com/NickKartha/test) [ *test repository* ]
+ + [OpenBadges Backpack](https://github.com/NickKartha/openbadges-backpack) [ *Mozilla Project* ]
+ + [BumpTop](https://github.com/NickKartha/BumpTop) [ *3D Desktop project killed by Google* ]
+ + [Kasebsu](https://github.com/NickKartha/Kasebsu) [ *simple music player microproject* ]
+ + [...](...) [ *...* ]
  ---
  **Task**: How would you automate this list generation? [ref:api]
