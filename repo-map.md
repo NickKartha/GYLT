@@ -41,6 +41,7 @@
  + [OpenBadges Backpack](https://github.com/NickKartha/openbadges-backpack) [ *Mozilla Project* ]
  + [BumpTop](https://github.com/NickKartha/BumpTop) [ *3D Desktop project killed by Google* ]
  + [Kasebsu](https://github.com/NickKartha/Kasebsu) [ *simple music player microproject* ]
- + [...](...) [ *...* ]
+ + [TicTacToe](https://github.com/NickKartha/TicTacToe) [ *3n player X&Os over VC* ]
+ + [GYLT](https://github.com/NickKartha/GYLT) [ *Get Your Listerine Together* ]
  ---
  **Task**: How would you automate this list generation? [ref:api]
