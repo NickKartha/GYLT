@@ -8,5 +8,10 @@ Suggested project name by @Github was `vigilant-intention` but I chose to keep i
 + Work & Productivity : https://www.youtube.com/watch?v=eXbML1GMT9w 
 
 ---
-W.I.P.
+# Look here:
++ https://github.com/ossu/computer-science
++ https://github.com/ForrestKnight/open-source-cs
+
 ---
+
+# W.I.P.
