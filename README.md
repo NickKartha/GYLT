@@ -15,3 +15,5 @@ Suggested project name by @Github was `vigilant-intention` but I chose to keep i
 ---
 
 # W.I.P.
+
+[9/2/19] I should update this as soon as possible. It's been quite some time since I worked last.
