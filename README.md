@@ -24,3 +24,29 @@ https://cdn-images-1.medium.com/max/2000/1*0kf59M9bNuEIRNDaj54QvQ.png
 
 [10/2/19] Need to go back into research. Xanax caused 126 deaths in the UK last year alone. How would you prevent abuse?
 
+[11/2/19] relationships & reminders: https://www.youtube.com/watch?v=FzlLoBZcPR4
+
+Lavendaire is a blog about personal growth + lifestyle design. Follow along and learn how you can create a life you love. 
+
+Subscribe to Lavendaire to get inspired by new videos weekly! http://bit.ly/sublavendaire
+
+// GYLT Series
+◇ week 1: sleep | http://bit.ly/2BVb7UZ
+◇ week 2: habits | http://bit.ly/2QhTNCs
+◇ week 3: home | http://bit.ly/2AXW8bd
+◇ week 4: digital | http://bit.ly/2TaixJX
+◇ week 5: health | http://bit.ly/2V2JfGf
+◇ week 6: clothes & personal items | http://bit.ly/2VfZn7p
+◇ week 7: work/productivity | http://bit.ly/2Qn6rvi
+◇ week 8: relationships
+
+// M A I L B O X
+
+Aileen Xu
+PO Box 296
+Brea, CA 92822
+
+Business inquiries | mgmt@lavendaire.com
+
+---
+
