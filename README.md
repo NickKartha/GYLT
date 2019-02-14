@@ -53,6 +53,8 @@ Business inquiries | mgmt@lavendaire.com
 ---
 ## Global Problematics
 
++ [14/2/19] The underworld of illegal dogfighting: https://www.youtube.com/watch?v=JD8ZGC1XeaU
 + [13/2/19] College Tuition and Student Loans: https://www.youtube.com/watch?v=aWJ0OaojfiA
 + [10/2/19] Need to go back into research. Xanax caused 126 deaths in the UK last year alone. How would you prevent abuse?
+
 ---
