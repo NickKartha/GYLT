@@ -5,6 +5,8 @@ One repository to rule them all.
 Suggested project name by @Github was `vigilant-intention` but I chose to keep it GYLT to stay reminded what the intent is.
 This repo should not stay messy for long.
 
+ -> Using GH Project Boards : https://help.github.com/articles/about-project-boards/
+
 + Work & Productivity : https://www.youtube.com/watch?v=eXbML1GMT9w 
 
 ---
