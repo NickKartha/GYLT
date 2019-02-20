@@ -35,14 +35,21 @@ Subscribe to Lavendaire to get inspired by new videos weekly! http://bit.ly/subl
 # GYLT Series
 By Lavendaire
 
-[ ]  week 1: sleep | http://bit.ly/2BVb7UZ
-[ ]  week 2: habits | http://bit.ly/2QhTNCs
-[ ]  week 3: home | http://bit.ly/2AXW8bd
-[ ]  week 4: digital | http://bit.ly/2TaixJX
-[ ]  week 5: health | http://bit.ly/2V2JfGf
-[ ]  week 6: clothes & personal items | http://bit.ly/2VfZn7p
-[ ]  week 7: work/productivity | http://bit.ly/2Qn6rvi
-[ ]  week 8: relationships
+- [ ]  week 1: sleep | http://bit.ly/2BVb7UZ
+
+- [ ]  week 2: habits | http://bit.ly/2QhTNCs
+
+- [ ]  week 3: home | http://bit.ly/2AXW8bd
+
+- [ ]  week 4: digital | http://bit.ly/2TaixJX
+
+- [ ]  week 5: health | http://bit.ly/2V2JfGf
+
+- [ ]  week 6: clothes & personal items | http://bit.ly/2VfZn7p
+
+- [ ]  week 7: work/productivity | http://bit.ly/2Qn6rvi
+
+- [ ]  week 8: relationships
 
 ## M A I L B O X
 
