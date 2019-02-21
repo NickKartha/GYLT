@@ -1,7 +1,6 @@
 # GYLT
 One repository to rule them all.
 
-
 Suggested project name by @Github was `vigilant-intention` but I chose to keep it GYLT to stay reminded what the intent is.
 This repo should not stay messy for long.
 
@@ -13,6 +12,7 @@ This repo should not stay messy for long.
 # Look here:
 + https://github.com/ossu/computer-science
 + https://github.com/ForrestKnight/open-source-cs
++ https://github.com/saicodes/awesome-collection-of-google-colab-notebooks
 
 ---
 
@@ -21,10 +21,12 @@ This repo should not stay messy for long.
 [9/2/19] I should update this as soon as possible. It's been quite some time since I worked last.
 
 // how do I add these images here??
-https://cdn-images-1.medium.com/max/2000/1*_wZhhTstI_DCebB2fK2c5g.png
-https://cdn-images-1.medium.com/max/2000/1*V7TMAzvhW7_cn9FbkKqOcQ.png
-https://cdn-images-1.medium.com/max/2000/1*0kf59M9bNuEIRNDaj54QvQ.png
 
+<a href="google.com/search?q="study programming">
+ < img src="https://cdn-images-1.medium.com/max/2000/1*_wZhhTstI_DCebB2fK2c5g.png" />
+ < img src="https://cdn-images-1.medium.com/max/2000/1*V7TMAzvhW7_cn9FbkKqOcQ.png" />
+ < img src="https://cdn-images-1.medium.com/max/2000/1*0kf59M9bNuEIRNDaj54QvQ.png" />
+                                                                                 </a>
 
 [11/2/19] relationships & reminders: https://www.youtube.com/watch?v=FzlLoBZcPR4
 
@@ -33,23 +35,23 @@ Lavendaire is a blog about personal growth + lifestyle design. Follow along and 
 Subscribe to Lavendaire to get inspired by new videos weekly! http://bit.ly/sublavendaire
 
 # GYLT Series
-By Lavendaire
+By Lavendaire [list ID: PL37ErCJmMWd3GAgmpeRaa9jrRGG4bHToD]
 
-- [ ]  week 1: sleep | http://bit.ly/2BVb7UZ
+- [x]  week 1: sleep | https://youtu.be/3LJdjNMezJc
 
-- [ ]  week 2: habits | http://bit.ly/2QhTNCs
+- [x]  week 2: habits | https://youtu.be/Tdh9w2zPT90
 
-- [ ]  week 3: home | http://bit.ly/2AXW8bd
+- [x]  week 3: home | https://youtu.be/4ms13TIYNrE
 
-- [ ]  week 4: digital | http://bit.ly/2TaixJX
+- [x]  week 4: digital | https://youtu.be/eoHy7nyBzbU
 
-- [ ]  week 5: health | http://bit.ly/2V2JfGf
+- [x]  week 5: health | https://youtu.be/bmpN1BWPy6Y
 
-- [ ]  week 6: clothes & personal items | http://bit.ly/2VfZn7p
+- [x]  week 6: clothes & personal items | https://youtu.be/UkOIU9r1LFE
 
-- [ ]  week 7: work/productivity | http://bit.ly/2Qn6rvi
+- [ ]  week 7: work/productivity | https://youtu.be/eXbML1GMT9w
 
-- [ ]  week 8: relationships
+- [ ]  week 8: relationships | https://youtu.be/FzlLoBZcPR4 (not yet added to list)
 
 ## M A I L B O X
 
