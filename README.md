@@ -8,6 +8,8 @@ This repo should not stay messy for long.
 
 + Work & Productivity : https://www.youtube.com/watch?v=eXbML1GMT9w 
 
++ muchelleb: https://www.youtube.com/watch?v=lC0PxeC1fXc
+
 ---
 # Look here:
 + https://github.com/ossu/computer-science
@@ -22,11 +24,9 @@ This repo should not stay messy for long.
 
 // how do I add these images here??
 
-<a href="google.com/search?q="study programming">
- < img src="https://cdn-images-1.medium.com/max/2000/1*_wZhhTstI_DCebB2fK2c5g.png" />
- < img src="https://cdn-images-1.medium.com/max/2000/1*V7TMAzvhW7_cn9FbkKqOcQ.png" />
- < img src="https://cdn-images-1.medium.com/max/2000/1*0kf59M9bNuEIRNDaj54QvQ.png" />
-                                                                                 </a>
+ <img src="https://cdn-images-1.medium.com/max/2000/1*_wZhhTstI_DCebB2fK2c5g.png" />
+ <img src="https://cdn-images-1.medium.com/max/2000/1*V7TMAzvhW7_cn9FbkKqOcQ.png" />
+ <img src="https://cdn-images-1.medium.com/max/2000/1*0kf59M9bNuEIRNDaj54QvQ.png" />
 
 [11/2/19] relationships & reminders: https://www.youtube.com/watch?v=FzlLoBZcPR4
 
@@ -45,9 +45,9 @@ By Lavendaire [list ID: PL37ErCJmMWd3GAgmpeRaa9jrRGG4bHToD]
 
 - [x]  week 4: digital | https://youtu.be/eoHy7nyBzbU
 
-- [x]  week 5: health | https://youtu.be/bmpN1BWPy6Y
+- [ ]  week 5: health | https://youtu.be/bmpN1BWPy6Y
 
-- [x]  week 6: clothes & personal items | https://youtu.be/UkOIU9r1LFE
+- [ ]  week 6: clothes & personal items | https://youtu.be/UkOIU9r1LFE
 
 - [ ]  week 7: work/productivity | https://youtu.be/eXbML1GMT9w
 
