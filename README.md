@@ -67,5 +67,12 @@ Business inquiries | mgmt@lavendaire.com
 + [14/2/19] The underworld of illegal dogfighting: https://www.youtube.com/watch?v=JD8ZGC1XeaU
 + [13/2/19] College Tuition and Student Loans: https://www.youtube.com/watch?v=aWJ0OaojfiA
 + [10/2/19] Need to go back into research. Xanax caused 126 deaths in the UK last year alone. How would you prevent abuse?
++ [17/3/19] Fear of the dark and the unknown: https://knowyourmeme.com/memes/you-are-likely-to-be-eaten-by-a-grue
+
+---
+
+## Embarrasments and Guilt
+
+It's true that not all commits are productive. Sometime's they're done to keep the garden green and activity streaks going. This is not fair actually. There has to be a development pipeline and a review process. It's up to individual developers to implement their own DevOps practices, the simplest of which is to make a substantial number of commits locally before pushing to remote as a single push. This sounds like bad practices to someone writing thousands of lines of code in a single day but really, this advice is for that programmer searching for the one perfect line of code to get something done. Rather than wasting space with unecessary dables of edits, we can have one clean looking change to the master file. Isn't that a good dream to have? Push in your thoughts.
 
 ---
