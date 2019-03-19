@@ -9,7 +9,13 @@ for serious, you shouldn't go outside if you can't build a turing machine in you
 # Calculus
 stuff done by newton and leibnitz
 ## Differential
+rates and gradients.
+Don't jerk the auto fare, I'll know.
 ## Integral
+areas, volumes and weirder stuff. 
+Gauss get me a line out of here.
+## Analytical
+real and complex numbers have an argument on how to slice vegetables.
 
 # Statistics and Data Science
 Maybe I should just do all this in R.
