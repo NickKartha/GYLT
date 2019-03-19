@@ -1,10 +1,10 @@
 # GYLT
 One repository to rule them all.
 
-Suggested project name by @Github was `vigilant-intention` but I chose to keep it GYLT to stay reminded what the intent is.
+[//]: # (Suggested project name by @Github was `vigilant-intention` but I chose to keep it GYLT to stay reminded what the intent is.)
 This repo should not stay messy for long.
 
- -> Using GH Project Boards : https://help.github.com/articles/about-project-boards/
+ --> Using GH Project Boards : https://help.github.com/articles/about-project-boards/
 
 + Work & Productivity : https://www.youtube.com/watch?v=eXbML1GMT9w 
 
@@ -15,6 +15,7 @@ This repo should not stay messy for long.
 + https://github.com/ossu/computer-science
 + https://github.com/ForrestKnight/open-source-cs
 + https://github.com/saicodes/awesome-collection-of-google-colab-notebooks
++ https://github.com/hongshin/DiscreteMath
 
 ---
 
@@ -34,26 +35,28 @@ Lavendaire is a blog about personal growth + lifestyle design. Follow along and 
 
 Subscribe to Lavendaire to get inspired by new videos weekly! http://bit.ly/sublavendaire
 
+[19/3/19] Updated repo to reflect change.
+
 # GYLT Series
 By Lavendaire [list ID: PL37ErCJmMWd3GAgmpeRaa9jrRGG4bHToD]
 
-- [x]  week 1: sleep | https://youtu.be/3LJdjNMezJc
+- [ ] week 1: sleep | https://youtu.be/3LJdjNMezJc
 
-- [x]  week 2: habits | https://youtu.be/Tdh9w2zPT90
+- [ ] week 2: habits | https://youtu.be/Tdh9w2zPT90
 
-- [x]  week 3: home | https://youtu.be/4ms13TIYNrE
+- [ ] week 3: home | https://youtu.be/4ms13TIYNrE
 
-- [x]  week 4: digital | https://youtu.be/eoHy7nyBzbU
+- [ ] week 4: digital | https://youtu.be/eoHy7nyBzbU
 
-- [ ]  week 5: health | https://youtu.be/bmpN1BWPy6Y
+- [ ] week 5: health | https://youtu.be/bmpN1BWPy6Y
 
-- [ ]  week 6: clothes & personal items | https://youtu.be/UkOIU9r1LFE
+- [ ] week 6: clothes & personal items | https://youtu.be/UkOIU9r1LFE
 
-- [ ]  week 7: work/productivity | https://youtu.be/eXbML1GMT9w
+- [ ] week 7: work/productivity | https://youtu.be/eXbML1GMT9w
 
-- [ ]  week 8: relationships | https://youtu.be/FzlLoBZcPR4 (not yet added to list)
+- [ ] week 8: relationships and reminders | https://youtu.be/FzlLoBZcPR4
 
-## M A I L B O X
+### MAILBOX
 
 Aileen Xu
 PO Box 296
