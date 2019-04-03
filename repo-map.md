@@ -1,5 +1,5 @@
 # The Map of Git Respositories
-### Map of `github.com/NickKartha?tab=repositories` excluding this current one:
+### Map of `github.com/NickKartha?tab=repositories` including even the ugly ones:
 
  + [Subscribe To PewdiePie](https://github.com/NickKartha/Subscribe-To-PewdiePie) [ *fork repo to support* ]
      + https://tseries.tumblr.com
@@ -43,5 +43,15 @@
  + [Kasebsu](https://github.com/NickKartha/Kasebsu) [ *simple music player microproject* ]
  + [TicTacToe](https://github.com/NickKartha/TicTacToe) [ *3n player X&Os over VC* ]
  + [GYLT](https://github.com/NickKartha/GYLT) [ *Get Your Listerine Together* ]
+ + [Kuku](https://github.com/NickKartha/Kuku) [ *Network to allocate jobs to workers using RxYS* ]
+ + [Work.996](https://github.com/NickKartha/Work.996) [ *996 working, ICU waiting* ]
+ + [PlaNeT](https://github.com/NickKartha/PlaNet) [ *dedicated to Google AI research* ]
+ + [sweepr](https://github.com/NickKartha/sweepr) [ *inspired by friend working on minseweeper patterns* ]
+ + [xrch](https://github.com/NickKartha/xrch) [ *simple search web interface* ]
+ + [soluataire](https://github.com/NickKartha/soluataire) [ *solitaire in lua script* ]
+ + [NameMe](https://github.com/NickKartha/NameMe) [ *get a name, any name* ]
+ + [Bantersnatch](https://github.com/NickKartha/Bantersnatch) [ *opinion mining* ]
+ + [DataLit](https://github.com/NickKartha/DataLit) [ *Data Lit MOOC course progress tracker and resource* ]
+ + [Pi Day 2019](https://github.com/NickKartha/Pi-Day-2019) [ *pi digits uding collision* ]
  ---
  **Task**: How would you automate this list generation? [ref:api]
