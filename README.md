@@ -71,6 +71,7 @@ Business inquiries | mgmt@lavendaire.com
 + [13/2/19] College Tuition and Student Loans: https://www.youtube.com/watch?v=aWJ0OaojfiA
 + [10/2/19] Need to go back into research. Xanax caused 126 deaths in the UK last year alone. How would you prevent abuse?
 + [17/3/19] Fear of the dark and the unknown: https://knowyourmeme.com/memes/you-are-likely-to-be-eaten-by-a-grue
++ [4/4/19] Lethargy, Inactivity and Fear of Criticism : Do things, fail lots. Better to be known as a doer who fails than a quitter who fails. Fail gracefully, fall humble, fall with humity and dignity and elegance. Be elequant; go out to win an extempore. Be quaint, be honest, be peace, be humble. Sit down.
 
 ---
 
