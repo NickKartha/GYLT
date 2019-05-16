@@ -8,7 +8,9 @@ This repo should not stay messy for long.
 
 + Work & Productivity : https://www.youtube.com/watch?v=eXbML1GMT9w 
 
-+ muchelleb: https://www.youtube.com/watch?v=lC0PxeC1fXc
+###  muchelleb
+ + https://www.youtube.com/watch?v=lC0PxeC1fXc
+ + Motivation and Goal Setting: https://www.youtube.com/watch?v=h_tQBUwl-08
 
 ---
 # Look here:
@@ -23,7 +25,7 @@ This repo should not stay messy for long.
 
 [9/2/19] I should update this as soon as possible. It's been quite some time since I worked last.
 
-// how do I add these images here??
+[16/5/19] See the updated 2019 roadmap here: https://github.com/kamranahmedse/developer-roadmap
 
  <img src="https://cdn-images-1.medium.com/max/2000/1*_wZhhTstI_DCebB2fK2c5g.png" />
  <img src="https://cdn-images-1.medium.com/max/2000/1*V7TMAzvhW7_cn9FbkKqOcQ.png" />
@@ -73,7 +75,8 @@ Business inquiries | mgmt@lavendaire.com
 + [17/3/19] Fear of the dark and the unknown: https://knowyourmeme.com/memes/you-are-likely-to-be-eaten-by-a-grue
 + [4/4/19] Lethargy, Inactivity and Fear of Criticism : Do things, fail lots. Better to be known as a doer who fails than a quitter who fails. Fail gracefully, fall humble, fall with humity and dignity and elegance. Be elequant; go out to win an extempore. Be quaint, be honest, be peace, be humble. Sit down.
 + [11/4/19] Communication: The difficulty of staying connected and in conteact. The hardship of navigating through the expiry of social group interactions and group disolves. Finding new connections and growing relations into fruitful industries.
-
++ [15/5/19] Deadlines and Making the Cut; The hare lost to the turtle because it napped. Imagine had the the turtle won.
++ [16/5/19] Organization: The tremendous pain of havig things hither and dither without easy access.
 ---
 <strike>
 ## Embarrasments and Guilt
@@ -85,5 +88,10 @@ I forgot no one reads any of this.
 Update:
 You probably think I made this commit to keep my garden green, don't you.
 You might not be wrong, but I deserve this win today.
+
+Update2:
+Yeah, I shouldn't have done that even though it doesn't matter.
+It matters to me that my garden is green.
+So, that's my only goal right now.
 
 ---
